@@ -29,7 +29,7 @@ Ce projet avait également pour objectif de mettre en pratique les principes du 
 
 ---
 
-# Projet collaboratif
+# Contexte du projet
 
 Ce projet a été réalisé en équipe de **trois étudiants** dans le cadre de la Licence 3 MIAGE.
 
@@ -262,9 +262,10 @@ Ce projet m'a permis de renforcer mes compétences sur :
 
 # Code source
 
-Ce dépôt a été créé afin de présenter le projet et ses principales fonctionnalités.
+Ce dépôt présente le projet, son architecture ainsi que les principales fonctionnalités développées.
 
-Le code source complet est disponible dans le dépôt GitHub du projet collaboratif : **[Projet DevOps - StudentEvents](https://github.com/Zakia-KADI/projet-devops)**
+Le code source complet est disponible dans le dépôt GitHub du projet collaboratif : 
+**[Projet DevOps - StudentEvents](https://github.com/Zakia-KADI/projet-devops)**
 
 ---
 
